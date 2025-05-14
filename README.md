@@ -1,6 +1,6 @@
 # 🌟 Hey, I'm Anushree! 🌟
  
-I’m a dedicated software developer with a passion for creating impactful solutions through code. My focus is on leveraging **Python**, **JavaScript**, and **machine learning** to build innovative projects that solve real-world problems. I’m always eager to learn, collaborate, and contribute to the tech community.
+I’m a dedicated software developer with a passion for creating impactful solutions through code. My focus is to build innovative projects that solve real-world problems. I’m always eager to learn, collaborate, and contribute to the tech community.
 
 ## 🛠️ Current Projects & Skills  
 - **Exploration**: Developing projects using **Python** and **JavaScript** to enhance my full-stack development skills.  
