@@ -10,6 +10,7 @@ I’m a dedicated software developer with a passion for creating impactful solut
 ## 📫 Connect With Me  
 - **LinkedIn**: [Anushree C.](https://www.linkedin.com/in/anushree-c-92b991285/)  
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushree200&layout=compact&theme=radical)
+## 📈 GitHub Stats
+![Anushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushree200&show_icons=true&theme=radical)
+
 
