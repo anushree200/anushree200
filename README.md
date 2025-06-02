@@ -5,7 +5,7 @@ I’m a dedicated software developer with a passion for creating impactful solut
 ## 🛠️ Current Projects & Skills  
 - **Exploration**: Developing projects using **Python** and **JavaScript** to enhance my full-stack development skills.  
 - **Machine Learning**: Studying and applying machine learning techniques to create intelligent systems.  
-- **Programming Languages**: Proficient in **Python**, **C**, **JavaScript** and **Java**. Worked with **C++**, **Dart**, **Bash**, **Assembly Language**, **HTML**, **CSS** and a little bit of **C#**
+- **Programming Languages**: Proficient in **Python**, **C**, **JavaScript** and **Java**. Worked with **C++**, **Dart**, **Bash**, **Assembly Language**, **HTML**, **CSS**
 
 ## 📫 Connect With Me  
 - **LinkedIn**: [Anushree C.](https://www.linkedin.com/in/anushree-c-92b991285/)  
