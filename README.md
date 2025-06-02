@@ -1,10 +1,7 @@
 # Hey, I'm Anushree! 🌟
- 
-I’m a dedicated software developer with a passion for creating impactful solutions through code. My focus is to build innovative projects that solve real-world problems. I’m always eager to learn, collaborate, and contribute to the tech community.
 
-## 🛠️ Current Projects & Skills  
-- **Exploration**: Developing projects using **Python** and **JavaScript** to enhance my full-stack development skills.  
-- **Machine Learning**: Studying and applying machine learning techniques to create intelligent systems.  
+- 3rd year Computational Engineering
+- dedicated software developer with a passion for creating impactful solutions through code. My focus is to build innovative projects that solve real-world problems. I’m always eager to learn, collaborate, and contribute to the tech community.
 - **Programming Languages**: Proficient in **Python**, **C**, **JavaScript** and **Java**. Worked with **C++**, **Dart**, **Bash**, **Assembly Language**, **HTML**, **CSS**
 
 ## 📫 Connect With Me  
