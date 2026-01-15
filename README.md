@@ -6,9 +6,6 @@
 ## Connect With Me  
 - **LinkedIn**: [Anushree C.](https://www.linkedin.com/in/anushree-c-92b991285/)  
 
-## Hackerrannk Profile
-- [My profile](https://www.hackerrank.com/profile/aanuushree)
-
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
