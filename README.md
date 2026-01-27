@@ -32,7 +32,5 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Visitors](https://komarev.com/ghpvc/?username=anushree200&color=blue)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=anushree200&label=Visitors&color=6f42c1&style=for-the-badge)
 
